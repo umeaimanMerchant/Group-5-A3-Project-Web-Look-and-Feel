@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BookBridge - Delete Book</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <nav>
+                <div class="logo">BookBridge</div>
+                <ul class="nav-links">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="data-visualization.html">Data Visualization</a></li>
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="create.html">Create Book</a></li>
+                    <li><a href="read.html">Read Books</a></li>
+                    <li><a href="update.html">Update Book</a></li>
+                    <li><a href="delete.html">Delete Book</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <section class="section">
+                <h1 class="section-title">Delete Book</h1>
+                <div class="card">
+                    <p>Select a book from your collection to delete. This action cannot be undone.</p>
+                </div>
+            </section>
+
+            <section class="section">
+                <div class="card">
+                    <form id="deleteBookForm">
+                        <div class="form-group">
+                            <label for="bookSelect">Select Book to Delete *</label>
+                            <select id="bookSelect" name="bookSelect" required>
+                                <option value="">Choose a book...</option>
+                                <option value="1">The Great Gatsby - F. Scott Fitzgerald</option>
+                                <option value="2">To Kill a Mockingbird - Harper Lee</option>
+                                <option value="3">The Hobbit - J.R.R. Tolkien</option>
+                                <option value="4">1984 - George Orwell</option>
+                                <option value="5">Pride and Prejudice - Jane Austen</option>
+                            </select>
+                        </div>
+
+                        <div class="book-details" id="bookDetails">
+                            <!-- Book details will be populated here -->
+                        </div>
+
+                        <div class="form-actions">
+                            <button type="submit" class="btn-danger">Delete Book</button>
+                            <button type="button" class="btn-secondary" onclick="window.location.href='read.html'">Cancel</button>
+                        </div>
+                    </form>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2023 BookBridge. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+</html> 

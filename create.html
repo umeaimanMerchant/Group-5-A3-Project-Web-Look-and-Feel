@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BookBridge - Create Book</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <nav>
+                <div class="logo">BookBridge</div>
+                <ul class="nav-links">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="data-visualization.html">Data Visualization</a></li>
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="create.html">Create Book</a></li>
+                    <li><a href="read.html">Read Books</a></li>
+                    <li><a href="update.html">Update Book</a></li>
+                    <li><a href="delete.html">Delete Book</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <section class="section">
+                <h1 class="section-title">Create a New Book</h1>
+                <div class="card">
+                    <p>Use the form below to add a new book to the BookBridge platform. Fill in all the required fields to ensure your book is properly categorized and discoverable by other users.</p>
+                </div>
+            </section>
+
+            <section class="section">
+                <div class="card">
+                    <form id="createBookForm">
+                        <div class="form-group">
+                            <label for="bookTitle">Book Title *</label>
+                            <input type="text" id="bookTitle" name="bookTitle" required>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="author">Author *</label>
+                            <input type="text" id="author" name="author" required>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="isbn">ISBN</label>
+                            <input type="text" id="isbn" name="isbn">
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="genre">Genre *</label>
+                            <select id="genre" name="genre" required>
+                                <option value="">Select a genre</option>
+                                <option value="fiction">Fiction</option>
+                                <option value="non-fiction">Non-Fiction</option>
+                                <option value="mystery">Mystery</option>
+                                <option value="science-fiction">Science Fiction</option>
+                                <option value="romance">Romance</option>
+                                <option value="biography">Biography</option>
+                                <option value="history">History</option>
+                                <option value="other">Other</option>
+                            </select>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="condition">Book Condition *</label>
+                            <select id="condition" name="condition" required>
+                                <option value="">Select condition</option>
+                                <option value="new">New</option>
+                                <option value="like-new">Like New</option>
+                                <option value="very-good">Very Good</option>
+                                <option value="good">Good</option>
+                                <option value="fair">Fair</option>
+                                <option value="poor">Poor</option>
+                            </select>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="description">Description</label>
+                            <textarea id="description" name="description" rows="4"></textarea>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="location">Location *</label>
+                            <input type="text" id="location" name="location" required placeholder="City, State">
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="availability">Availability *</label>
+                            <select id="availability" name="availability" required>
+                                <option value="available">Available</option>
+                                <option value="borrowed">Currently Borrowed</option>
+                            </select>
+                        </div>
+                        
+                        <button type="submit">Create Book</button>
+                    </form>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2023 BookBridge. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+</html> 
