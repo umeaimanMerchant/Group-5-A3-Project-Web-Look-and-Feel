@@ -1,0 +1,994 @@
+(base) umeaimanmerchant@Mac Group-5-A3-Project-Web-Look-and-Feel-1 % git log
+commit 424098c7738579419c7c1f924b4b530d23b9d59f (HEAD -> main, origin/main, origin/HEAD)
+Merge: 8931c58 802286e
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 18:28:59 2025 -0400
+
+    Merge pull request from Priyanka-Jammu into main
+    
+    Index Page is update with CSS file updates
+
+commit 802286e318322af9a260bfbd6710a022c99dc604
+Merge: fb71d1f 8931c58
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:25:47 2025 -0400
+
+    Merge branch 'umeaimanMerchant:main' into main
+
+commit fb71d1fc6e47bcaa28757e8bd403f93295c3ef9e
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:23:52 2025 -0400
+:...skipping...
+commit 424098c7738579419c7c1f924b4b530d23b9d59f (HEAD -> main, origin/main, origin/HEAD)
+Merge: 8931c58 802286e
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 18:28:59 2025 -0400
+
+    Merge pull request from Priyanka-Jammu into main
+    
+    Index Page is update with CSS file updates
+
+commit 802286e318322af9a260bfbd6710a022c99dc604
+Merge: fb71d1f 8931c58
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:25:47 2025 -0400
+
+    Merge branch 'umeaimanMerchant:main' into main
+
+commit fb71d1fc6e47bcaa28757e8bd403f93295c3ef9e
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:23:52 2025 -0400
+
+:...skipping...
+commit 424098c7738579419c7c1f924b4b530d23b9d59f (HEAD -> main, origin/main, origin/HEAD)
+Merge: 8931c58 802286e
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 18:28:59 2025 -0400
+
+    Merge pull request from Priyanka-Jammu into main
+    
+    Index Page is update with CSS file updates
+
+commit 802286e318322af9a260bfbd6710a022c99dc604
+Merge: fb71d1f 8931c58
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:25:47 2025 -0400
+
+    Merge branch 'umeaimanMerchant:main' into main
+
+commit fb71d1fc6e47bcaa28757e8bd403f93295c3ef9e
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:23:52 2025 -0400
+
+    Index file
+
+:...skipping...
+commit 424098c7738579419c7c1f924b4b530d23b9d59f (HEAD -> main, origin/main, origin/HEAD)
+Merge: 8931c58 802286e
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 18:28:59 2025 -0400
+
+    Merge pull request from Priyanka-Jammu into main
+    
+    Index Page is update with CSS file updates
+
+commit 802286e318322af9a260bfbd6710a022c99dc604
+Merge: fb71d1f 8931c58
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:25:47 2025 -0400
+
+    Merge branch 'umeaimanMerchant:main' into main
+
+commit fb71d1fc6e47bcaa28757e8bd403f93295c3ef9e
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:23:52 2025 -0400
+
+    Index file
+
+commit 8931c58ac9aa4d56a9c391c4bc3031c1f8879333
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+:...skipping...
+commit 424098c7738579419c7c1f924b4b530d23b9d59f (HEAD -> main, origin/main, origin/HEAD)
+Merge: 8931c58 802286e
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 18:28:59 2025 -0400
+
+    Merge pull request from Priyanka-Jammu into main
+    
+    Index Page is update with CSS file updates
+
+commit 802286e318322af9a260bfbd6710a022c99dc604
+Merge: fb71d1f 8931c58
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:25:47 2025 -0400
+
+    Merge branch 'umeaimanMerchant:main' into main
+
+commit fb71d1fc6e47bcaa28757e8bd403f93295c3ef9e
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:23:52 2025 -0400
+
+    Index file
+
+commit 8931c58ac9aa4d56a9c391c4bc3031c1f8879333
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 17:38:25 2025 -0400
+
+    Title update
+:...skipping...
+commit 424098c7738579419c7c1f924b4b530d23b9d59f (HEAD -> main, origin/main, origin/HEAD)
+Merge: 8931c58 802286e
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 18:28:59 2025 -0400
+
+    Merge pull request from Priyanka-Jammu into main
+    
+    Index Page is update with CSS file updates
+
+commit 802286e318322af9a260bfbd6710a022c99dc604
+Merge: fb71d1f 8931c58
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:25:47 2025 -0400
+
+    Merge branch 'umeaimanMerchant:main' into main
+
+commit fb71d1fc6e47bcaa28757e8bd403f93295c3ef9e
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:23:52 2025 -0400
+
+    Index file
+
+commit 8931c58ac9aa4d56a9c391c4bc3031c1f8879333
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 17:38:25 2025 -0400
+
+    Title update
+
+commit 0fa181f625da96f6b0b2b937ce81afcf4d4ee360
+:...skipping...
+commit 424098c7738579419c7c1f924b4b530d23b9d59f (HEAD -> main, origin/main, origin/HEAD)
+Merge: 8931c58 802286e
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 18:28:59 2025 -0400
+
+    Merge pull request from Priyanka-Jammu into main
+    
+    Index Page is update with CSS file updates
+
+commit 802286e318322af9a260bfbd6710a022c99dc604
+Merge: fb71d1f 8931c58
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:25:47 2025 -0400
+
+    Merge branch 'umeaimanMerchant:main' into main
+
+commit fb71d1fc6e47bcaa28757e8bd403f93295c3ef9e
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:23:52 2025 -0400
+
+    Index file
+
+commit 8931c58ac9aa4d56a9c391c4bc3031c1f8879333
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 17:38:25 2025 -0400
+
+    Title update
+
+commit 0fa181f625da96f6b0b2b937ce81afcf4d4ee360
+Author: gopidodda-usf <gopidodda@usf.edu>
+Date:   Sun Apr 20 16:57:22 2025 -0400
+:...skipping...
+commit 424098c7738579419c7c1f924b4b530d23b9d59f (HEAD -> main, origin/main, origin/HEAD)
+Merge: 8931c58 802286e
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 18:28:59 2025 -0400
+
+    Merge pull request from Priyanka-Jammu into main
+    
+    Index Page is update with CSS file updates
+
+commit 802286e318322af9a260bfbd6710a022c99dc604
+Merge: fb71d1f 8931c58
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:25:47 2025 -0400
+
+    Merge branch 'umeaimanMerchant:main' into main
+
+commit fb71d1fc6e47bcaa28757e8bd403f93295c3ef9e
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:23:52 2025 -0400
+
+    Index file
+
+commit 8931c58ac9aa4d56a9c391c4bc3031c1f8879333
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 17:38:25 2025 -0400
+
+    Title update
+
+commit 0fa181f625da96f6b0b2b937ce81afcf4d4ee360
+Author: gopidodda-usf <gopidodda@usf.edu>
+Date:   Sun Apr 20 16:57:22 2025 -0400
+
+    Logo added
+:...skipping...
+commit 424098c7738579419c7c1f924b4b530d23b9d59f (HEAD -> main, origin/main, origin/HEAD)
+Merge: 8931c58 802286e
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 18:28:59 2025 -0400
+
+    Merge pull request from Priyanka-Jammu into main
+    
+    Index Page is update with CSS file updates
+
+commit 802286e318322af9a260bfbd6710a022c99dc604
+Merge: fb71d1f 8931c58
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:25:47 2025 -0400
+
+    Merge branch 'umeaimanMerchant:main' into main
+
+commit fb71d1fc6e47bcaa28757e8bd403f93295c3ef9e
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:23:52 2025 -0400
+
+    Index file
+
+commit 8931c58ac9aa4d56a9c391c4bc3031c1f8879333
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 17:38:25 2025 -0400
+
+    Title update
+
+commit 0fa181f625da96f6b0b2b937ce81afcf4d4ee360
+Author: gopidodda-usf <gopidodda@usf.edu>
+Date:   Sun Apr 20 16:57:22 2025 -0400
+
+    Logo added
+
+commit e61f048b45f8d2649f8047e1d2f537976d37ea9b
+:...skipping...
+commit 424098c7738579419c7c1f924b4b530d23b9d59f (HEAD -> main, origin/main, origin/HEAD)
+Merge: 8931c58 802286e
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 18:28:59 2025 -0400
+
+    Merge pull request from Priyanka-Jammu into main
+    
+    Index Page is update with CSS file updates
+
+commit 802286e318322af9a260bfbd6710a022c99dc604
+Merge: fb71d1f 8931c58
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:25:47 2025 -0400
+
+    Merge branch 'umeaimanMerchant:main' into main
+
+commit fb71d1fc6e47bcaa28757e8bd403f93295c3ef9e
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:23:52 2025 -0400
+
+    Index file
+
+commit 8931c58ac9aa4d56a9c391c4bc3031c1f8879333
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 17:38:25 2025 -0400
+
+    Title update
+
+commit 0fa181f625da96f6b0b2b937ce81afcf4d4ee360
+Author: gopidodda-usf <gopidodda@usf.edu>
+Date:   Sun Apr 20 16:57:22 2025 -0400
+
+    Logo added
+
+commit e61f048b45f8d2649f8047e1d2f537976d37ea9b
+Author: gopidodda-usf <gopidodda@usf.edu>
+:...skipping...
+commit 424098c7738579419c7c1f924b4b530d23b9d59f (HEAD -> main, origin/main, origin/HEAD)
+Merge: 8931c58 802286e
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 18:28:59 2025 -0400
+
+    Merge pull request from Priyanka-Jammu into main
+    
+    Index Page is update with CSS file updates
+
+commit 802286e318322af9a260bfbd6710a022c99dc604
+Merge: fb71d1f 8931c58
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:25:47 2025 -0400
+
+    Merge branch 'umeaimanMerchant:main' into main
+
+commit fb71d1fc6e47bcaa28757e8bd403f93295c3ef9e
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:23:52 2025 -0400
+
+    Index file
+
+commit 8931c58ac9aa4d56a9c391c4bc3031c1f8879333
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 17:38:25 2025 -0400
+
+    Title update
+
+commit 0fa181f625da96f6b0b2b937ce81afcf4d4ee360
+Author: gopidodda-usf <gopidodda@usf.edu>
+Date:   Sun Apr 20 16:57:22 2025 -0400
+
+    Logo added
+
+commit e61f048b45f8d2649f8047e1d2f537976d37ea9b
+Author: gopidodda-usf <gopidodda@usf.edu>
+Date:   Sun Apr 20 16:53:52 2025 -0400
+
+:...skipping...
+commit 424098c7738579419c7c1f924b4b530d23b9d59f (HEAD -> main, origin/main, origin/HEAD)
+Merge: 8931c58 802286e
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 18:28:59 2025 -0400
+
+    Merge pull request from Priyanka-Jammu into main
+    
+    Index Page is update with CSS file updates
+
+commit 802286e318322af9a260bfbd6710a022c99dc604
+Merge: fb71d1f 8931c58
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:25:47 2025 -0400
+
+    Merge branch 'umeaimanMerchant:main' into main
+
+commit fb71d1fc6e47bcaa28757e8bd403f93295c3ef9e
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:23:52 2025 -0400
+
+    Index file
+
+commit 8931c58ac9aa4d56a9c391c4bc3031c1f8879333
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 17:38:25 2025 -0400
+
+    Title update
+
+commit 0fa181f625da96f6b0b2b937ce81afcf4d4ee360
+Author: gopidodda-usf <gopidodda@usf.edu>
+Date:   Sun Apr 20 16:57:22 2025 -0400
+
+    Logo added
+
+commit e61f048b45f8d2649f8047e1d2f537976d37ea9b
+Author: gopidodda-usf <gopidodda@usf.edu>
+Date:   Sun Apr 20 16:53:52 2025 -0400
+
+    About page, README file, Logo added
+:...skipping...
+commit 424098c7738579419c7c1f924b4b530d23b9d59f (HEAD -> main, origin/main, origin/HEAD)
+Merge: 8931c58 802286e
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 18:28:59 2025 -0400
+
+    Merge pull request from Priyanka-Jammu into main
+    
+    Index Page is update with CSS file updates
+
+commit 802286e318322af9a260bfbd6710a022c99dc604
+Merge: fb71d1f 8931c58
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:25:47 2025 -0400
+
+    Merge branch 'umeaimanMerchant:main' into main
+
+commit fb71d1fc6e47bcaa28757e8bd403f93295c3ef9e
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:23:52 2025 -0400
+
+    Index file
+
+commit 8931c58ac9aa4d56a9c391c4bc3031c1f8879333
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 17:38:25 2025 -0400
+
+    Title update
+
+commit 0fa181f625da96f6b0b2b937ce81afcf4d4ee360
+Author: gopidodda-usf <gopidodda@usf.edu>
+Date:   Sun Apr 20 16:57:22 2025 -0400
+
+    Logo added
+
+commit e61f048b45f8d2649f8047e1d2f537976d37ea9b
+Author: gopidodda-usf <gopidodda@usf.edu>
+Date:   Sun Apr 20 16:53:52 2025 -0400
+
+    About page, README file, Logo added
+
+:...skipping...
+commit 424098c7738579419c7c1f924b4b530d23b9d59f (HEAD -> main, origin/main, origin/HEAD)
+Merge: 8931c58 802286e
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 18:28:59 2025 -0400
+
+    Merge pull request from Priyanka-Jammu into main
+    
+    Index Page is update with CSS file updates
+
+commit 802286e318322af9a260bfbd6710a022c99dc604
+Merge: fb71d1f 8931c58
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:25:47 2025 -0400
+
+    Merge branch 'umeaimanMerchant:main' into main
+
+commit fb71d1fc6e47bcaa28757e8bd403f93295c3ef9e
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:23:52 2025 -0400
+
+    Index file
+
+commit 8931c58ac9aa4d56a9c391c4bc3031c1f8879333
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 17:38:25 2025 -0400
+
+    Title update
+
+commit 0fa181f625da96f6b0b2b937ce81afcf4d4ee360
+Author: gopidodda-usf <gopidodda@usf.edu>
+Date:   Sun Apr 20 16:57:22 2025 -0400
+
+    Logo added
+
+commit e61f048b45f8d2649f8047e1d2f537976d37ea9b
+Author: gopidodda-usf <gopidodda@usf.edu>
+Date:   Sun Apr 20 16:53:52 2025 -0400
+
+    About page, README file, Logo added
+
+commit 36fced2e40ba624c1d67c043689a373e3a44dda1
+:...skipping...
+commit 424098c7738579419c7c1f924b4b530d23b9d59f (HEAD -> main, origin/main, origin/HEAD)
+Merge: 8931c58 802286e
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 18:28:59 2025 -0400
+
+    Merge pull request from Priyanka-Jammu into main
+    
+    Index Page is update with CSS file updates
+
+commit 802286e318322af9a260bfbd6710a022c99dc604
+Merge: fb71d1f 8931c58
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:25:47 2025 -0400
+
+    Merge branch 'umeaimanMerchant:main' into main
+
+commit fb71d1fc6e47bcaa28757e8bd403f93295c3ef9e
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:23:52 2025 -0400
+
+    Index file
+
+commit 8931c58ac9aa4d56a9c391c4bc3031c1f8879333
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 17:38:25 2025 -0400
+
+    Title update
+
+commit 0fa181f625da96f6b0b2b937ce81afcf4d4ee360
+Author: gopidodda-usf <gopidodda@usf.edu>
+Date:   Sun Apr 20 16:57:22 2025 -0400
+
+    Logo added
+
+commit e61f048b45f8d2649f8047e1d2f537976d37ea9b
+Author: gopidodda-usf <gopidodda@usf.edu>
+Date:   Sun Apr 20 16:53:52 2025 -0400
+
+    About page, README file, Logo added
+
+commit 36fced2e40ba624c1d67c043689a373e3a44dda1
+Author: hriday <purmahriday@gmail.com>
+:...skipping...
+commit 424098c7738579419c7c1f924b4b530d23b9d59f (HEAD -> main, origin/main, origin/HEAD)
+Merge: 8931c58 802286e
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 18:28:59 2025 -0400
+
+    Merge pull request from Priyanka-Jammu into main
+    
+    Index Page is update with CSS file updates
+
+commit 802286e318322af9a260bfbd6710a022c99dc604
+Merge: fb71d1f 8931c58
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:25:47 2025 -0400
+
+    Merge branch 'umeaimanMerchant:main' into main
+
+commit fb71d1fc6e47bcaa28757e8bd403f93295c3ef9e
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:23:52 2025 -0400
+
+    Index file
+
+commit 8931c58ac9aa4d56a9c391c4bc3031c1f8879333
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 17:38:25 2025 -0400
+
+    Title update
+
+commit 0fa181f625da96f6b0b2b937ce81afcf4d4ee360
+Author: gopidodda-usf <gopidodda@usf.edu>
+Date:   Sun Apr 20 16:57:22 2025 -0400
+
+    Logo added
+
+commit e61f048b45f8d2649f8047e1d2f537976d37ea9b
+Author: gopidodda-usf <gopidodda@usf.edu>
+Date:   Sun Apr 20 16:53:52 2025 -0400
+
+    About page, README file, Logo added
+
+commit 36fced2e40ba624c1d67c043689a373e3a44dda1
+Author: hriday <purmahriday@gmail.com>
+Date:   Sun Apr 20 15:39:45 2025 -0400
+:...skipping...
+commit 424098c7738579419c7c1f924b4b530d23b9d59f (HEAD -> main, origin/main, origin/HEAD)
+Merge: 8931c58 802286e
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 18:28:59 2025 -0400
+
+    Merge pull request from Priyanka-Jammu into main
+    
+    Index Page is update with CSS file updates
+
+commit 802286e318322af9a260bfbd6710a022c99dc604
+Merge: fb71d1f 8931c58
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:25:47 2025 -0400
+
+    Merge branch 'umeaimanMerchant:main' into main
+
+commit fb71d1fc6e47bcaa28757e8bd403f93295c3ef9e
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:23:52 2025 -0400
+
+    Index file
+
+commit 8931c58ac9aa4d56a9c391c4bc3031c1f8879333
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 17:38:25 2025 -0400
+
+    Title update
+
+commit 0fa181f625da96f6b0b2b937ce81afcf4d4ee360
+Author: gopidodda-usf <gopidodda@usf.edu>
+Date:   Sun Apr 20 16:57:22 2025 -0400
+
+    Logo added
+
+commit e61f048b45f8d2649f8047e1d2f537976d37ea9b
+Author: gopidodda-usf <gopidodda@usf.edu>
+Date:   Sun Apr 20 16:53:52 2025 -0400
+
+    About page, README file, Logo added
+
+commit 36fced2e40ba624c1d67c043689a373e3a44dda1
+Author: hriday <purmahriday@gmail.com>
+Date:   Sun Apr 20 15:39:45 2025 -0400
+
+:...skipping...
+commit 424098c7738579419c7c1f924b4b530d23b9d59f (HEAD -> main, origin/main, origin/HEAD)
+Merge: 8931c58 802286e
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 18:28:59 2025 -0400
+
+    Merge pull request from Priyanka-Jammu into main
+    
+    Index Page is update with CSS file updates
+
+commit 802286e318322af9a260bfbd6710a022c99dc604
+Merge: fb71d1f 8931c58
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:25:47 2025 -0400
+
+    Merge branch 'umeaimanMerchant:main' into main
+
+commit fb71d1fc6e47bcaa28757e8bd403f93295c3ef9e
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:23:52 2025 -0400
+
+    Index file
+
+commit 8931c58ac9aa4d56a9c391c4bc3031c1f8879333
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 17:38:25 2025 -0400
+
+    Title update
+
+commit 0fa181f625da96f6b0b2b937ce81afcf4d4ee360
+Author: gopidodda-usf <gopidodda@usf.edu>
+Date:   Sun Apr 20 16:57:22 2025 -0400
+
+    Logo added
+
+commit e61f048b45f8d2649f8047e1d2f537976d37ea9b
+Author: gopidodda-usf <gopidodda@usf.edu>
+Date:   Sun Apr 20 16:53:52 2025 -0400
+
+    About page, README file, Logo added
+
+commit 36fced2e40ba624c1d67c043689a373e3a44dda1
+Author: hriday <purmahriday@gmail.com>
+Date:   Sun Apr 20 15:39:45 2025 -0400
+
+    added data visulaization changes and Java script code
+:...skipping...
+commit 424098c7738579419c7c1f924b4b530d23b9d59f (HEAD -> main, origin/main, origin/HEAD)
+Merge: 8931c58 802286e
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 18:28:59 2025 -0400
+
+    Merge pull request from Priyanka-Jammu into main
+    
+    Index Page is update with CSS file updates
+
+commit 802286e318322af9a260bfbd6710a022c99dc604
+Merge: fb71d1f 8931c58
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:25:47 2025 -0400
+
+    Merge branch 'umeaimanMerchant:main' into main
+
+commit fb71d1fc6e47bcaa28757e8bd403f93295c3ef9e
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:23:52 2025 -0400
+
+    Index file
+
+commit 8931c58ac9aa4d56a9c391c4bc3031c1f8879333
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 17:38:25 2025 -0400
+
+    Title update
+
+commit 0fa181f625da96f6b0b2b937ce81afcf4d4ee360
+Author: gopidodda-usf <gopidodda@usf.edu>
+Date:   Sun Apr 20 16:57:22 2025 -0400
+
+    Logo added
+
+commit e61f048b45f8d2649f8047e1d2f537976d37ea9b
+Author: gopidodda-usf <gopidodda@usf.edu>
+Date:   Sun Apr 20 16:53:52 2025 -0400
+
+    About page, README file, Logo added
+
+commit 36fced2e40ba624c1d67c043689a373e3a44dda1
+Author: hriday <purmahriday@gmail.com>
+Date:   Sun Apr 20 15:39:45 2025 -0400
+
+    added data visulaization changes and Java script code
+
+commit e6871dd7697e11c60114c50d78b6291314565345
+:...skipping...
+commit 424098c7738579419c7c1f924b4b530d23b9d59f (HEAD -> main, origin/main, origin/HEAD)
+Merge: 8931c58 802286e
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 18:28:59 2025 -0400
+
+    Merge pull request from Priyanka-Jammu into main
+    
+    Index Page is update with CSS file updates
+
+commit 802286e318322af9a260bfbd6710a022c99dc604
+Merge: fb71d1f 8931c58
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:25:47 2025 -0400
+
+    Merge branch 'umeaimanMerchant:main' into main
+
+commit fb71d1fc6e47bcaa28757e8bd403f93295c3ef9e
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:23:52 2025 -0400
+
+    Index file
+
+commit 8931c58ac9aa4d56a9c391c4bc3031c1f8879333
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 17:38:25 2025 -0400
+
+    Title update
+
+commit 0fa181f625da96f6b0b2b937ce81afcf4d4ee360
+Author: gopidodda-usf <gopidodda@usf.edu>
+Date:   Sun Apr 20 16:57:22 2025 -0400
+
+    Logo added
+
+commit e61f048b45f8d2649f8047e1d2f537976d37ea9b
+Author: gopidodda-usf <gopidodda@usf.edu>
+Date:   Sun Apr 20 16:53:52 2025 -0400
+
+    About page, README file, Logo added
+
+commit 36fced2e40ba624c1d67c043689a373e3a44dda1
+Author: hriday <purmahriday@gmail.com>
+Date:   Sun Apr 20 15:39:45 2025 -0400
+
+    added data visulaization changes and Java script code
+
+commit e6871dd7697e11c60114c50d78b6291314565345
+Merge: 09425b4 eb61a3d
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+:...skipping...
+commit 424098c7738579419c7c1f924b4b530d23b9d59f (HEAD -> main, origin/main, origin/HEAD)
+Merge: 8931c58 802286e
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 18:28:59 2025 -0400
+
+    Merge pull request from Priyanka-Jammu into main
+    
+    Index Page is update with CSS file updates
+
+commit 802286e318322af9a260bfbd6710a022c99dc604
+Merge: fb71d1f 8931c58
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:25:47 2025 -0400
+
+    Merge branch 'umeaimanMerchant:main' into main
+
+commit fb71d1fc6e47bcaa28757e8bd403f93295c3ef9e
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:23:52 2025 -0400
+
+    Index file
+
+commit 8931c58ac9aa4d56a9c391c4bc3031c1f8879333
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 17:38:25 2025 -0400
+
+    Title update
+
+commit 0fa181f625da96f6b0b2b937ce81afcf4d4ee360
+Author: gopidodda-usf <gopidodda@usf.edu>
+Date:   Sun Apr 20 16:57:22 2025 -0400
+
+    Logo added
+
+commit e61f048b45f8d2649f8047e1d2f537976d37ea9b
+Author: gopidodda-usf <gopidodda@usf.edu>
+Date:   Sun Apr 20 16:53:52 2025 -0400
+
+    About page, README file, Logo added
+
+commit 36fced2e40ba624c1d67c043689a373e3a44dda1
+Author: hriday <purmahriday@gmail.com>
+Date:   Sun Apr 20 15:39:45 2025 -0400
+
+    added data visulaization changes and Java script code
+
+commit e6871dd7697e11c60114c50d78b6291314565345
+Merge: 09425b4 eb61a3d
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sat Apr 19 15:14:13 2025 -0400
+:...skipping...
+commit 424098c7738579419c7c1f924b4b530d23b9d59f (HEAD -> main, origin/main, origin/HEAD)
+Merge: 8931c58 802286e
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 18:28:59 2025 -0400
+
+    Merge pull request from Priyanka-Jammu into main
+    
+    Index Page is update with CSS file updates
+
+commit 802286e318322af9a260bfbd6710a022c99dc604
+Merge: fb71d1f 8931c58
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:25:47 2025 -0400
+
+    Merge branch 'umeaimanMerchant:main' into main
+
+commit fb71d1fc6e47bcaa28757e8bd403f93295c3ef9e
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:23:52 2025 -0400
+
+    Index file
+
+commit 8931c58ac9aa4d56a9c391c4bc3031c1f8879333
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 17:38:25 2025 -0400
+
+    Title update
+
+commit 0fa181f625da96f6b0b2b937ce81afcf4d4ee360
+Author: gopidodda-usf <gopidodda@usf.edu>
+Date:   Sun Apr 20 16:57:22 2025 -0400
+
+    Logo added
+
+commit e61f048b45f8d2649f8047e1d2f537976d37ea9b
+Author: gopidodda-usf <gopidodda@usf.edu>
+Date:   Sun Apr 20 16:53:52 2025 -0400
+
+    About page, README file, Logo added
+
+commit 36fced2e40ba624c1d67c043689a373e3a44dda1
+Author: hriday <purmahriday@gmail.com>
+Date:   Sun Apr 20 15:39:45 2025 -0400
+
+    added data visulaization changes and Java script code
+
+commit e6871dd7697e11c60114c50d78b6291314565345
+Merge: 09425b4 eb61a3d
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sat Apr 19 15:14:13 2025 -0400
+
+:...skipping...
+commit 424098c7738579419c7c1f924b4b530d23b9d59f (HEAD -> main, origin/main, origin/HEAD)
+Merge: 8931c58 802286e
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 18:28:59 2025 -0400
+
+    Merge pull request from Priyanka-Jammu into main
+    
+    Index Page is update with CSS file updates
+
+commit 802286e318322af9a260bfbd6710a022c99dc604
+Merge: fb71d1f 8931c58
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:25:47 2025 -0400
+
+    Merge branch 'umeaimanMerchant:main' into main
+
+commit fb71d1fc6e47bcaa28757e8bd403f93295c3ef9e
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:23:52 2025 -0400
+
+    Index file
+
+commit 8931c58ac9aa4d56a9c391c4bc3031c1f8879333
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 17:38:25 2025 -0400
+
+    Title update
+
+commit 0fa181f625da96f6b0b2b937ce81afcf4d4ee360
+Author: gopidodda-usf <gopidodda@usf.edu>
+Date:   Sun Apr 20 16:57:22 2025 -0400
+
+    Logo added
+
+commit e61f048b45f8d2649f8047e1d2f537976d37ea9b
+Author: gopidodda-usf <gopidodda@usf.edu>
+Date:   Sun Apr 20 16:53:52 2025 -0400
+
+    About page, README file, Logo added
+
+commit 36fced2e40ba624c1d67c043689a373e3a44dda1
+Author: hriday <purmahriday@gmail.com>
+Date:   Sun Apr 20 15:39:45 2025 -0400
+
+    added data visulaization changes and Java script code
+
+commit e6871dd7697e11c60114c50d78b6291314565345
+Merge: 09425b4 eb61a3d
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sat Apr 19 15:14:13 2025 -0400
+
+    Merge pull request #1 from Priyanka-Jammu/main
+:...skipping...
+commit 424098c7738579419c7c1f924b4b530d23b9d59f (HEAD -> main, origin/main, origin/HEAD)
+Merge: 8931c58 802286e
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 18:28:59 2025 -0400
+
+    Merge pull request from Priyanka-Jammu into main
+    
+    Index Page is update with CSS file updates
+
+commit 802286e318322af9a260bfbd6710a022c99dc604
+Merge: fb71d1f 8931c58
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:25:47 2025 -0400
+
+    Merge branch 'umeaimanMerchant:main' into main
+
+commit fb71d1fc6e47bcaa28757e8bd403f93295c3ef9e
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:23:52 2025 -0400
+
+    Index file
+
+commit 8931c58ac9aa4d56a9c391c4bc3031c1f8879333
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 17:38:25 2025 -0400
+
+    Title update
+
+commit 0fa181f625da96f6b0b2b937ce81afcf4d4ee360
+Author: gopidodda-usf <gopidodda@usf.edu>
+Date:   Sun Apr 20 16:57:22 2025 -0400
+
+    Logo added
+
+commit e61f048b45f8d2649f8047e1d2f537976d37ea9b
+Author: gopidodda-usf <gopidodda@usf.edu>
+Date:   Sun Apr 20 16:53:52 2025 -0400
+
+    About page, README file, Logo added
+
+commit 36fced2e40ba624c1d67c043689a373e3a44dda1
+Author: hriday <purmahriday@gmail.com>
+Date:   Sun Apr 20 15:39:45 2025 -0400
+
+    added data visulaization changes and Java script code
+
+commit e6871dd7697e11c60114c50d78b6291314565345
+Merge: 09425b4 eb61a3d
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sat Apr 19 15:14:13 2025 -0400
+
+    Merge pull request #1 from Priyanka-Jammu/main
+    
+:...skipping...
+commit 424098c7738579419c7c1f924b4b530d23b9d59f (HEAD -> main, origin/main, origin/HEAD)
+Merge: 8931c58 802286e
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 18:28:59 2025 -0400
+
+    Merge pull request from Priyanka-Jammu into main
+    
+    Index Page is update with CSS file updates
+
+commit 802286e318322af9a260bfbd6710a022c99dc604
+Merge: fb71d1f 8931c58
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:25:47 2025 -0400
+
+    Merge branch 'umeaimanMerchant:main' into main
+
+commit fb71d1fc6e47bcaa28757e8bd403f93295c3ef9e
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sun Apr 20 18:23:52 2025 -0400
+
+    Index file
+
+commit 8931c58ac9aa4d56a9c391c4bc3031c1f8879333
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sun Apr 20 17:38:25 2025 -0400
+
+    Title update
+
+commit 0fa181f625da96f6b0b2b937ce81afcf4d4ee360
+Author: gopidodda-usf <gopidodda@usf.edu>
+Date:   Sun Apr 20 16:57:22 2025 -0400
+
+    Logo added
+
+commit e61f048b45f8d2649f8047e1d2f537976d37ea9b
+Author: gopidodda-usf <gopidodda@usf.edu>
+Date:   Sun Apr 20 16:53:52 2025 -0400
+
+    About page, README file, Logo added
+
+commit 36fced2e40ba624c1d67c043689a373e3a44dda1
+Author: hriday <purmahriday@gmail.com>
+Date:   Sun Apr 20 15:39:45 2025 -0400
+
+    added data visulaization changes and Java script code
+
+commit e6871dd7697e11c60114c50d78b6291314565345
+Merge: 09425b4 eb61a3d
+Author: Umeaiman Merchant <52196824+umeaimanMerchant@users.noreply.github.com>
+Date:   Sat Apr 19 15:14:13 2025 -0400
+
+    Merge pull request #1 from Priyanka-Jammu/main
+    
+    Index , CSS,image files
+
+commit eb61a3d3fafc4077c81da11deca450cb646145d3
+Author: Priyanka-Jammu <priyankajammu1@gmail.com>
+Date:   Sat Apr 19 15:11:26 2025 -0400
+:
