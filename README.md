@@ -6,7 +6,7 @@ BookBridge is a community-driven platform that connects book lovers, allowing th
 
 This project is a static website prototype that represents the design and structure of our final application. It includes navigation between pages, functional CRUD operation buttons, and interactive data visualizations.
 
-![BookBridge Logo](logo.png)
+![BookBridge Logo](logo.jpg)
 
 ## Features
 
