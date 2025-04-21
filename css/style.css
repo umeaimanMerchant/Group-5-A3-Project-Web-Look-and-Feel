@@ -280,29 +280,82 @@ footer {
 }
 
 /* Responsive Design */
+/* Updated Mobile Styles */
 @media (max-width: 768px) {
-    .nav-links {
-        display: none;
+    /* Nav */
+    nav {
+        flex-direction: column;
+        align-items: flex-start;
     }
-    
+
+    .nav-links {
+        flex-direction: column;
+        display: flex;
+        width: 100%;
+        margin-top: 8px;
+    }
+
+    .nav-links li {
+        margin-left: 0;
+        margin-bottom: 10px;
+    }
+
+    /* Hero banner text size */
+    .hero-content h1 {
+        font-size: 2rem;
+    }
+
+    .hero-content p {
+        font-size: 1rem;
+    }
+
+    /* Home feature section text + image */
+    .home-feature-sections .text-image-row,
+    .home-feature-sections .text-image-row.reverse {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    .home-feature-sections .text-image-row .image {
+        width: 80%;
+        max-width: 250px;
+        margin-top: 20px;
+    }
+
+    .home-feature-sections .text-image-row .text {
+        font-size: 1.2rem;
+        font-weight: 500;
+        line-height: 1.4;
+        padding: 0 10px;
+        justify-content: center;
+    }
+
+    .home-feature-sections .center-button {
+        margin-top: 20px;
+    }
+
+    /* Already present rules - keep them */
     .team-grid {
         grid-template-columns: 1fr;
     }
-    
+
     .search-filters {
         flex-direction: column;
     }
-    
+
     .form-actions {
         flex-direction: column;
     }
-    
+
     .btn-primary,
     .btn-secondary,
     .btn-danger {
         width: 100%;
     }
 }
+
 
 /* Book Details Card */
 .book-details-card {
@@ -566,6 +619,7 @@ footer {
 .logo-img {
     width: 40px;
     height: auto;
+    border-radius: 5px;
 }
 .hero-banner {
     background-image: url('../img/book-banner.png');  /* Make sure this path is correct */
@@ -579,6 +633,7 @@ footer {
     color: white;
     position: relative;
     margin-bottom: 40px;
+    border-radius: 10px;
   }
   
   .hero-banner::after {
@@ -588,6 +643,7 @@ footer {
     width: 100%; height: 100%;
     background-color: rgba(0, 0, 0, 0.4); /* dark overlay for contrast */
     z-index: 1;
+    border-radius: 10px;
   }
   
   .hero-content {
@@ -605,4 +661,75 @@ footer {
   .hero-content p {
     font-size: 1.2rem;
   }
-  
+  /* Home Feature Section (for Home Page only) */
+/* Scoped Styling for Home Feature Section */
+.home-feature-sections .new-layout {
+    margin-top: 40px;
+}
+
+.home-feature-sections .text-image-row {
+    display: flex;
+    align-items: center;        /* ✅ vertically center image and text */
+    justify-content: space-between;
+    gap: 20px;                  /* ✅ keeps spacing between text and image neat */
+    margin-bottom: 40px;
+}
+
+.home-feature-sections .text-image-row.reverse {
+    flex-direction: row-reverse;
+    align-items: center;        /* ✅ also add to reverse rows */
+    gap: 20px;
+}
+
+.home-feature-sections .text-image-row .text {
+    flex: 1;
+    font-size: 1.8rem;
+    font-weight: 500;
+    color: var(--primary-color);
+    line-height: 1.5;
+    display: flex;
+    align-items: center;  
+}
+
+.home-feature-sections .text-image-row .image {
+    width: 250px; /* slightly smaller image */
+    height: auto;
+    border-radius: 10px;
+}
+
+.home-feature-sections .center-button {
+    text-align: center;
+    margin: 30px 0 60px;
+}
+
+.home-feature-sections .btn-primary {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 12px 24px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.home-feature-sections .btn-primary:hover {
+    background-color: #553a77;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .home-feature-sections .text-image-row {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .home-feature-sections .text-image-row.reverse {
+        flex-direction: column;
+    }
+
+    .home-feature-sections .text-image-row .image {
+        margin-top: 20px;
+    }
+}
